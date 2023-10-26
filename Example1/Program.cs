@@ -16,8 +16,8 @@ namespace NorenRestSample
     {
         #region dev  credentials
 
-        public static string endPoint = "";
-        public static string wsendpoint = "";
+        public static string endPoint = "https://mid.mastertrust.co.in//DealerWClient/";
+        public static string wsendpoint = "wss://mid.mastertrust.co.in/NorenWSDealer/";
         public static string uid = "";
         
         public static string pwd = "";
